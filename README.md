@@ -1,2 +1,2 @@
 # Adventure-works-cycle-
-In this project the adventure work cycles data was analysed to improve the sales of the company 
+In this project the adventure work cycle data was analysed to improve the sales of the company. Various KPIs were prepared in order to achieve the goal of the project. Data was cleaned using excel,sql and dashboards were prepared using tableau and powerbi. Finally a PPT was prepared and presented to understand the business conditions and gave insights on how to improve the sales 
